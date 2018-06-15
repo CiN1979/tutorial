@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1393224096 source:c:\users\marcin\desktop\ramp\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"Display.h"
+
+1392950319 c:\users\marcin\desktop\ramp\point.h
+
+1393218986 c:\users\marcin\desktop\ramp\display.h
+	<map>
+
+1393223974 source:c:\users\marcin\desktop\ramp\display.cpp
+	<cstdio>
+	<cassert>
+	<memory.h>
+	<iostream>
+	<fstream>
+	"Display.h"
+
+1392950326 source:c:\users\marcin\desktop\ramp\point.cpp
+	"Point.h"
+
+1392941212 source:c:\users\marcin\desktop\ramp\src\ramp.cpp
+	<iostream>
+	<fstream>
+	"Ramp.h"
+
+1392950365 c:\users\marcin\desktop\ramp\include\ramp.h
+	"..\Point.h"
+
